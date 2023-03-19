@@ -12,4 +12,4 @@ class tpmodul5_130221010113
         //DataGeneric<string> nim = new DataGeneric<string>("1302210113");
         //nim.PrintData();
     }
-}
+} 
