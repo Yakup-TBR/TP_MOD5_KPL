@@ -9,7 +9,7 @@ class tpmodul5_130221010113
     static void Main(string[] args)
     {
         HaloGeneric.sapaUser<string>("Yakup Asmaidy Atanggae");
-        //DataGeneric<string> nim = new DataGeneric<string>("1302210113");
-        //nim.PrintData();
+        DataGeneric<string> nim = new DataGeneric<string>("1302210113");
+        nim.PrintData();
     }
 } 
